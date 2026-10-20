@@ -1,4 +1,4 @@
-# Hi, I'm Alfonso Camblor-García 👋
+# Hi, I'm Alfonso Camblor 👋
 
 **Senior Software Engineer · Senior Researcher · Tech Lead**
 
