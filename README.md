@@ -1,6 +1,6 @@
 # Hi, I'm Alfonso Camblor-García 👋
 
-**Senior Software Engineer · Researcher · Tech Lead**
+**Senior Software Engineer · Senior Researcher · Tech Lead**
 
 I build software systems, research emerging technologies, and enjoy solving challenging problems across computer science — from production engineering to research at the frontier of what's possible.
 
