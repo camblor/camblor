@@ -1,4 +1,4 @@
-# Hi, I'm Alfonso Camblor 👋
+# Hi, I'm Alfonso Camblor-García 👋
 
 **Senior Software Engineer · Senior Researcher · Tech Lead**
 
@@ -36,7 +36,7 @@ I believe some of the most interesting things happen when people with different 
 
 ### 🌐 Find Me
 
-- **Website:** [alfonsocamblor.com](https://alfonsocamblor.com)
+- **Website:** [Alfonso Camblor García](https://alfonsocamblor.com)
 - **LinkedIn:** [Alfonso Camblor García](https://www.linkedin.com/in/alfonsocamblorgarcia/)
 
 Always happy to connect, discuss interesting research, or collaborate on challenging engineering problems.
