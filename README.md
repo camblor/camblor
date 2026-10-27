@@ -39,5 +39,6 @@ I believe some of the most interesting things happen when people with different 
 - **Website:** [Alfonso Camblor García](https://alfonsocamblor.com)
 - **LinkedIn:** [Alfonso Camblor García](https://www.linkedin.com/in/alfonsocamblorgarcia/)
 - **Medium:** [Alfonso Camblor García](https://medium.com/@alfonsocamblorgarcia)
+- **ORCID:** [Alfonso Camblor García](https://orcid.org/0009-0000-4515-5848)
 
 Always happy to connect, discuss interesting research, or collaborate on challenging engineering problems.
